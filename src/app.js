@@ -23,4 +23,4 @@ app.get('/selecoes', (req, res) => {
     res.send(selecoes)
 })
 
-export default appb 
+export default app
