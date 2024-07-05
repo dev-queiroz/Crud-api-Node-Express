@@ -13,7 +13,8 @@
   "description": "meu primeiro projeto usando node e express",
   "dependencies": {
     "express": "^4.19.2",
-    "firebase": "^10.12.3"
+    "firebase": "^10.12.3",
+    "mysql": "^2.18.1"
   },
   "repository": {
     "type": "git",
