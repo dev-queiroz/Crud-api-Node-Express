@@ -1,8 +1,8 @@
 {
-  "name": "meu-projeto-express",
+  "name": "api-crud-example-with-node.js-and-express.js",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
+  "type": "module",   
   "scripts": {
     "dev": "nodemon ./src/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "Douglas Vinícios dos Santos Queiroz",
   "license": "",
-  "description": "meu primeiro projeto usando node e express",
+  "description": "Crud de times de futebol utilizando Node.js e Express.js",
   "dependencies": {
     "express": "^4.19.2",
     "firebase": "^10.12.3",
